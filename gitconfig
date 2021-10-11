@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jovis.sergio@gmail.com
+	name = Sergio Cerqueira
